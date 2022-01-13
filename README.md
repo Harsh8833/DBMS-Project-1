@@ -1,8 +1,8 @@
-#Jarvis Mart is project made by group-09 of slot D11(Dr. Shakkeera L)
+# Jarvis Mart is project made by group-09 of slot D11(Dr. Shakkeera L)
 
 We have created a compleate billing solution for business in which they can shortlist their customers into different category depending on how frequently the customer shops. We developed this application with the help of Python, Mongodb, Selenium web driver, Tkinter etc
 
-#About the application fetures:-
+### About the application fetures:-
 
 We have used remote database to store all the information of the application, it means the data of business is safe and accessible from anywhere. 
 
