@@ -26,7 +26,7 @@ A comprehensive billing and customer management application for small and medium
     - Tkinter
 2. Clone or download the repository
 3. Set up the remote database and update the connection details in the code
-4. Run the application using `python main.py`
+4. Run the application using `python SampleApp.py`
 
 ## Screenshots
 
